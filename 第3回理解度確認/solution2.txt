@@ -1,0 +1,11 @@
+﻿1)
+
+(ア)
+dat->name[3]=SAITOH Syouji
+
+
+(イ)
+vison=0.0
+
+2)
+7回
